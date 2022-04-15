@@ -1,0 +1,72 @@
+.Box {
+  text-align: center;
+  margin-left: 40%;
+  font-size: 35px;
+}
+
+label {
+  font-size: 25px;
+  margin-left: 35%;
+
+}
+
+span {
+  margin-left: 35%;
+}
+
+.input1 {
+  margin-left: 3%;
+  width: 10%
+}
+
+.input2 {
+  margin-left: 3%;
+
+}
+
+.input3 {
+  margin-left: 6.3%;
+
+}
+
+.Submitbutton {
+  margin-left: 45%;
+  margin-top: 20px;
+}
+
+.form {
+  margin-top: 3%;
+}
+
+.grid {
+  margin-left: 30%;
+  padding-top: 30px;
+}
+
+.gender {
+  margin-left: 6%
+}
+
+.courses {
+  margin-left: 7.5%;
+  margin-top: 20%
+}
+
+.select {
+  margin-left: 7%;
+
+}
+
+.Submitbutton {
+  margin-left: 50%;
+  margin-top: 20px;
+}
+
+tbody {
+  text-align: center;
+}
+
+thead {
+  text-align: center;
+  font-weight: bold;
+}
